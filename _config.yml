@@ -6,27 +6,27 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Haridasan
+title: Full Stack Developer
+email: hdasshp@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: "+917502013113"
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: #
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
+twitter_username: iamharidasan
+github_username:  iamharidasan
+stackoverflow_username: iamharidasan
+dribbble_username: iamharidasan
+facebook_username: iamharidasan
 flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
+instagram_username: iamharidasan
+linkedin_username: in/haridasan
 xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
