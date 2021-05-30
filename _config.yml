@@ -22,16 +22,9 @@ darkmode: false
 twitter_username: iamharidasan
 github_username:  iamharidasan
 stackoverflow_username: iamharidasan
-dribbble_username: iamharidasan
 facebook_username: iamharidasan
-flickr_username: jekyll
 instagram_username: iamharidasan
-linkedin_username: in/haridasan
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+linkedin_username: haridasan
 
 # Additional icon links
 additional_links:
@@ -82,11 +75,11 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        title: Network Redux India Pvt. Ltd.
+        sub_title: Sr. Software Architect
+        caption: September 2020 - present
+        link: https://www.networkredux.com/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
