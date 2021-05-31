@@ -21,7 +21,7 @@ darkmode: false
 # Social links
 twitter_username: iamharidasan
 github_username:  iamharidasan
-stackoverflow_username: iamharidasan
+#stackoverflow_username: iamharidasan
 facebook_username: iamharidasan
 instagram_username: iamharidasan
 linkedin_username: haridasan
@@ -43,15 +43,9 @@ linkedin_username: haridasan
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I have seven years of hands-on experience efficiently coding websites and web applications using modern HTML, CSS, JavaScript and PHP.Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. In addition to my knowledgebase, I actively seekout new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work to all of my employers, including those I've worked for on a project basis.
 
 content:
   - title: Projects # Title for the section
