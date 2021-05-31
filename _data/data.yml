@@ -52,9 +52,9 @@ career-profile:
     summary: |
       Currently working full-time as Sr. Software Architect at Network Redux India Pvt Ltd. Managing PHP projects and MERN Stack projects.
 
-news:
-    title: News
-    intro: |
+#news:
+    #title: News
+    #intro: |
         
     
     #posts:
@@ -183,9 +183,9 @@ educationcomplete:
         #link: "#"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
+#publications:
+    #title: Publications
+    #intro: |
       
 
     #papers:
